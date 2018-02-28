@@ -16,6 +16,7 @@
     data () {
       return {
         username: '',
+        email: '',
         password: '',
         keepSignedIn: true
       }
